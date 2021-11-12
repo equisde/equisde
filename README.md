@@ -8,7 +8,7 @@
 > who
 
 ```
-<img src="https://imgur.com/xva0kra.png" align="left" src="https://cdn.discordapp.com/attachments/852256383001034782/908764380265607178/1614580.png" width="250" height="260">
+<img src="https://cdn.discordapp.com/attachments/852256383001034782/908764380265607178/1614580.png" align="left" width="250" height="260">
 
 ```py
 
