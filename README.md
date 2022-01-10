@@ -85,6 +85,7 @@ Languages  :  Python, go, php, c++
 </div>
 
 <br>
+<div align="center">
 <hr>
 <h2 align="center">My Favorite Languages</h2>
 <br>
@@ -99,6 +100,7 @@ Languages  :  Python, go, php, c++
 <br>
 <hr>
 <br>
+</div>
 <h2>My Stats</h2>
 <a href="https://github.com/equisde">
 <br>
