@@ -29,7 +29,7 @@ Languages  :  Python, go, php, c++
 ```
 	
 ![equisde's GitHub stats](https://github-readme-stats.vercel.app/api?username=equisde&show_icons=true&theme=dark)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=equisde&langs_count=8&theme=dark&layout=compact)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=equisde&langs_count=8&theme=dark&layout=compact)
 
 <p align="middle">
 	
