@@ -105,7 +105,7 @@ Languages  :  Python, go, php, c++
 <a href="https://github.com/equisde">
 <br>
 <br>
-  <img align="left" width="500" src="https://github-readme-stats.vercel.app/api?username=equisde&show_icons=true&theme=dark" />
+  <img align="left" width="500" src="https://github-readme-stats.vercel.app/api?username=equisde&show_icons=true&theme=dark&include_all_commits=true" />
 </a>
 <a href="https://github.com/equisde">
   <img align="right" width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=equisde&langs_count=80&theme=dark&layout=compact" />
