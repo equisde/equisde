@@ -27,9 +27,6 @@ Languages  :  Python, go, php, c++
   Discord  :  331854126302494720
   
 ```
-<p align="middle">
-	
-
 
 <hr>
 <h2>My Discord Status</h4>
@@ -76,7 +73,7 @@ Languages  :  Python, go, php, c++
 
   <br>
   
-  he use NodeJS (the fastest lang for bots)
+  he use NodeJS
   
   <br>
 
@@ -110,3 +107,5 @@ Languages  :  Python, go, php, c++
   <img align="right" width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=equisde&langs_count=80&theme=dark&layout=compact" />
 </a>
 </center>
+
+    
