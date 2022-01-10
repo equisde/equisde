@@ -109,3 +109,4 @@ Languages  :  Python, go, php, c++
 <a href="https://github.com/equisde">
   <img align="right" width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=equisde&langs_count=80&theme=dark&layout=compact" />
 </a>
+</center>
