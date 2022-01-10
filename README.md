@@ -27,15 +27,6 @@ Languages  :  Python, go, php, c++
   Discord  :  331854126302494720
   
 ```
-<img align="center" width="300" src="https://discord.c99.nl/widget/theme-2/331854126302494720.png" />
-	
-<a href="https://github.com/equisde">
-  <img align="left" width="400" src="https://github-readme-stats.vercel.app/api?username=equisde&show_icons=true&theme=dark" />
-</a>
-<a href="https://github.com/equisde">
-  <img align="right" width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=equisde&langs_count=80&theme=dark&layout=compact" />
-</a>
-
 <p align="middle">
 	
 
