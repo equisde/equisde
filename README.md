@@ -18,7 +18,7 @@
 ┌─ SYSTEM TELEMETRY & ARCHITECT PROFILE ─────────────────────────────────────┐
 │ 👤 Principal   : Rodrigo Carrasco · Parallax (equisde)                      │
 │ 🎯 Role        : Senior Software Engineer · DevSecOps & Security Researcher │
-│ 🎓 Education   : B.S. in Computer Science (Grado Ing. Informática @ UNED)  │
+│ 🔬 Discipline  : Computer Science & Distributed Systems Architecture        │
 │ ⚡ Immersion   : Systems & Code since 2004 (age 11) · Reversing since 2006  │
 │ 🛡️ Core Spec   : Offensive Security · Destructive QA · Backend Resilience   │
 │ 🌐 Clearance   : 100% Global // Fully Remote-Ready                          │
