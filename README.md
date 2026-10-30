@@ -2,7 +2,7 @@
 
 # `equisde` // Rodrigo Carrasco (Parallax)
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F0FF&center=true&vCenter=true&width=620&lines=Staff+DevSecOps+%26+Offensive+Security+Architect;Senior+Full-Stack+%26+Systems+Engineer;Destructive+QA+%26+Reverse+Engineering;Blockchain+Pioneer+%26+Distributed+Systems;Unbreakable+Backend+Logic+%26+Resilience" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00F0FF&center=true&vCenter=true&width=580&lines=Principal+DevSecOps+%26+Security+Architect;Senior+Full-Stack+%26+Systems+Engineer;Destructive+QA+%26+Reverse+Engineering;Blockchain+Pioneer+%26+Distributed+Systems;Unbreakable+Backend+Logic+%26+Resilience" alt="Typing SVG" />
 
 <p align="center">
   <a href="https://itsparallax.me"><img src="https://img.shields.io/badge/Web-itsparallax.me-00f0ff?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=090b10" alt="Website" /></a>
