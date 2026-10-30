@@ -1,0 +1,66 @@
+<svg width="495" height="195" viewBox="0 0 495 195" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .header { font: 700 18px 'Segoe UI', Ubuntu, Sans-Serif; fill: #00f0ff; }
+    .stat-label { font: 600 13px 'Segoe UI', Ubuntu, Sans-Serif; fill: #c9d1d9; }
+    .stat-val { font: 700 14px 'Segoe UI', Ubuntu, Sans-Serif; fill: #ffffff; }
+    .icon { fill: #ff00aa; }
+    .rank-circle { stroke: #00f0ff; stroke-width: 5; fill: none; }
+    .rank-text { font: 800 24px 'Segoe UI', Ubuntu, Sans-Serif; fill: #00f0ff; }
+    .rank-sub { font: 600 10px 'Segoe UI', Ubuntu, Sans-Serif; fill: #ff00aa; }
+    .card-border { stroke: #00f0ff; stroke-opacity: 0.35; stroke-width: 1.5; }
+  </style>
+
+  <rect width="494" height="194" x="0.5" y="0.5" rx="10" fill="#090b10" class="card-border" />
+
+  <!-- Header -->
+  <g transform="translate(25, 32)">
+    <path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm-1 14.5v-9l6 4.5-6 4.5z" class="icon" transform="translate(0, -14) scale(0.9)"/>
+    <text x="25" y="0" class="header">Parallax's GitHub Telemetry</text>
+  </g>
+
+  <!-- Left Stats Column -->
+  <g transform="translate(25, 62)">
+    <!-- Stars -->
+    <g transform="translate(0, 0)">
+      <text class="icon" font-size="14">★</text>
+      <text x="22" y="0" class="stat-label">Total Stars Earned:</text>
+      <text x="210" y="0" class="stat-val">108</text>
+    </g>
+
+    <!-- Commits -->
+    <g transform="translate(0, 26)">
+      <text class="icon" font-size="14">⚡</text>
+      <text x="22" y="0" class="stat-label">Total Commits (Tracked):</text>
+      <text x="210" y="0" class="stat-val">278+</text>
+    </g>
+
+    <!-- PRs Merged -->
+    <g transform="translate(0, 52)">
+      <text class="icon" font-size="14">🦈</text>
+      <text x="22" y="0" class="stat-label">Total PRs Merged:</text>
+      <text x="210" y="0" class="stat-val">19 (Pull Shark 2x)</text>
+    </g>
+
+    <!-- Issues Closed -->
+    <g transform="translate(0, 78)">
+      <text class="icon" font-size="14">🎯</text>
+      <text x="22" y="0" class="stat-label">Total Issues Resolved:</text>
+      <text x="210" y="0" class="stat-val">17</text>
+    </g>
+
+    <!-- Repos -->
+    <g transform="translate(0, 104)">
+      <text class="icon" font-size="14">📦</text>
+      <text x="22" y="0" class="stat-label">Owned Repositories:</text>
+      <text x="210" y="0" class="stat-val">151</text>
+    </g>
+  </g>
+
+  <!-- Right Rank Badge -->
+  <g transform="translate(390, 105)">
+    <circle r="46" class="rank-circle" />
+    <circle r="46" stroke="#ff00aa" stroke-width="5" stroke-dasharray="290" stroke-dashoffset="65" fill="none" />
+    <text text-anchor="middle" y="6" class="rank-text">A+</text>
+    <text text-anchor="middle" y="24" class="rank-sub">DEVSECOPS</text>
+  </g>
+</svg>

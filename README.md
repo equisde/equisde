@@ -148,8 +148,8 @@
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=equisde&show_icons=true&hide_border=true&theme=tokyonight&title_color=00f0ff&icon_color=ff00aa&text_color=c9d1d9&bg_color=090b10" alt="GitHub Stats" />
-<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=equisde&layout=compact&hide_border=true&theme=tokyonight&title_color=00f0ff&text_color=c9d1d9&bg_color=090b10" alt="Top Languages" />
+<img height="185" src="https://raw.githubusercontent.com/equisde/equisde/main/assets/github-stats.svg" alt="GitHub Stats" />
+<img height="185" src="https://raw.githubusercontent.com/equisde/equisde/main/assets/top-langs.svg" alt="Top Languages" />
 
 <br/>
 
