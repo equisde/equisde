@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:090b10,50:00f0ff,100:ff00aa&height=130&section=header&text=PARALLAX%20//%20DEVSECOPS&fontSize=32&fontColor=ffffff&fontAlignY=36&animation=twinkling" width="100%" alt="Parallax Cyber Banner" />
+
 # `equisde` // Rodrigo Carrasco (Parallax)
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00F0FF&center=true&vCenter=true&width=580&lines=Principal+DevSecOps+%26+Security+Architect;Senior+Full-Stack+%26+Systems+Engineer;Destructive+QA+%26+Reverse+Engineering;Blockchain+Pioneer+%26+Distributed+Systems;Unbreakable+Backend+Logic+%26+Resilience" alt="Typing SVG" />
@@ -10,9 +12,9 @@
   <a href="https://github.com/equisde"><img src="https://img.shields.io/badge/GitHub-equisde-7928ca?style=for-the-badge&logo=github&logoColor=white&labelColor=090b10" alt="GitHub" /></a>
 </p>
 
-</div>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Cyber Divider" />
 
----
+</div>
 
 ```text
 ┌─ SYSTEM TELEMETRY & ARCHITECT PROFILE ─────────────────────────────────────┐
@@ -48,6 +50,22 @@
   - Resilient infrastructure across **Google Cloud Platform (GCP Spot VMs, custom IP routing)**, Cloudflare WAF/Zero Trust, New Relic full-stack observability, and GPU cloud clusters (Lightning AI, Thunder Compute) accelerated by agentic CLI orchestration.
   - **Hardware & IoT Nodes**: Autonomous edge sensors with ESP32-U microcontrollers (Bluetooth A2DP streaming, Wi-Fi polling), UAV/drone telemetry flight controllers, and high-speed Klipper / OctoPrint 3D print servers.
   - **Low-Level Storage Forensics**: Deep logical sector recovery and manual MBR/GPT partition table reconstruction on damaged 1.8 TB+ storage volumes via TestDisk. Mobile publisher under **Tribilin Devs** (Google Play) and cartographic auditing on OpenStreetMap.
+
+---
+
+### 🤝 Important People & Key Allies
+
+<div align="center">
+
+<a href="https://github.com/IMXNOOBX">
+  <img src="https://img.shields.io/badge/Key_Ally_%26_Collaborator-IMXNOOBX-00f0ff?style=for-the-badge&logo=github&logoColor=white&labelColor=090b10" alt="IMXNOOBX" />
+</a>
+
+<p align="center">
+  <em>Essential brother-in-arms and core collaborator across reverse engineering, network security, and infrastructure tooling.</em>
+</p>
+
+</div>
 
 ---
 
@@ -129,6 +147,8 @@
 ---
 
 <div align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Cyber Divider" />
 
 `// Parallax (Rodrigo Carrasco) · Global Remote DevSecOps & Systems Architect · Keep building resilient systems`
 
