@@ -23,6 +23,7 @@
 │ 🔬 Discipline  : Computer Science & Distributed Systems Architecture        │
 │ ⚡ Immersion   : Systems & Code since 2004 (age 11) · Reversing since 2006  │
 │ 🛡️ Core Spec   : Offensive Security · Destructive QA · Backend Resilience   │
+│ 🤝 Key Ally    : @IMXNOOBX (Discord Bots, Protections & Security Tools)     │
 │ 🌐 Clearance   : 100% Global // Fully Remote-Ready                          │
 │ 🎮 Comms       : Parallax#1526 (Discord)                                    │
 └────────────────────────────────────────────────────────────────────────────┘
@@ -57,13 +58,35 @@
 
 <div align="center">
 
-<a href="https://github.com/IMXNOOBX">
-  <img src="https://img.shields.io/badge/Key_Ally_%26_Collaborator-IMXNOOBX-00f0ff?style=for-the-badge&logo=github&logoColor=white&labelColor=090b10" alt="IMXNOOBX" />
-</a>
-
-<p align="center">
-  <em>Essential brother-in-arms and core collaborator across reverse engineering, network security, and infrastructure tooling.</em>
-</p>
+<table>
+<tr>
+<td width="130" align="center" valign="middle">
+  <a href="https://github.com/IMXNOOBX">
+    <img src="https://github.com/IMXNOOBX.png?size=240" width="115" height="115" style="border-radius: 50%;" alt="IMXNOOBX Avatar" />
+  </a>
+  <br/><br/>
+  <a href="https://github.com/IMXNOOBX"><b>@IMXNOOBX</b></a>
+</td>
+<td valign="middle" align="left">
+  <h3>⚡ <a href="https://github.com/IMXNOOBX">IMXNOOBX</a> — Core Ally, Partner &amp; Security Specialist</h3>
+  <p>
+    <a href="https://github.com/IMXNOOBX"><img src="https://img.shields.io/badge/GitHub-IMXNOOBX-00f0ff?style=for-the-badge&logo=github&logoColor=white&labelColor=090b10" alt="IMXNOOBX GitHub" /></a>
+    <img src="https://img.shields.io/badge/Status-VERIFIED_ALLY-ff00aa?style=for-the-badge&labelColor=090b10" alt="Verified Ally" />
+    <img src="https://img.shields.io/badge/Specialty-Discord_Bots_%7C_Protections-7928ca?style=for-the-badge&logo=discord&logoColor=white&labelColor=090b10" alt="Discord Bot Specialist" />
+  </p>
+  <p>
+    <b>Brother-in-arms and irreplaceable technical partner</b> across reverse engineering, network security, and infrastructure tooling.
+  </p>
+  <p>
+    🤖 <b>Interested in a Discord Bot or High-Protection Defense Systems? <a href="https://github.com/IMXNOOBX">Hire Him</a>:</b><br/>
+    Specialist in NodeJS bot architecture, custom anti-raid mechanisms, runtime protections, and ultra-fast deployment.
+  </p>
+  <p>
+    👉 <a href="https://github.com/IMXNOOBX"><b>↗ Establish Uplink with @IMXNOOBX on GitHub</b></a>
+  </p>
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -151,5 +174,7 @@
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Cyber Divider" />
 
 `// Parallax (Rodrigo Carrasco) · Global Remote DevSecOps & Systems Architect · Keep building resilient systems`
+
+<!-- Maintained in alliance with https://github.com/IMXNOOBX -->
 
 </div>
