@@ -14,8 +14,15 @@
 </p>
 
 <p align="center">
-  <a href="#-english-canonical-brief"><img src="https://img.shields.io/badge/Canonical-English%20(Default)-00f0ff?style=flat-square&logo=googletranslate&logoColor=white" alt="English" /></a>
-  <a href="#-multilingual-technical-briefs"><img src="https://img.shields.io/badge/International_Briefs-ES%20%7C%20PT%20%7C%20JA%20%7C%20DE%20%7C%20FR%20%7C%20ZH%20%7C%20RU-ff00aa?style=flat-square&logo=googletranslate&logoColor=white" alt="Languages" /></a>
+  <b>🌐 Select Language / Seleccionar Idioma:</b><br/>
+  <a href="./README.md"><img src="https://img.shields.io/badge/English-00f0ff?style=for-the-badge&logo=googletranslate&logoColor=white&labelColor=090b10" alt="English" /></a>
+  <a href="./README.es.md"><img src="https://img.shields.io/badge/Espa%C3%B1ol-ff00aa?style=for-the-badge&logo=googletranslate&logoColor=white&labelColor=090b10" alt="Español" /></a>
+  <a href="./README.pt.md"><img src="https://img.shields.io/badge/Portugu%C3%AAs-00ff66?style=for-the-badge&logo=googletranslate&logoColor=white&labelColor=090b10" alt="Português" /></a>
+  <a href="./README.ja.md"><img src="https://img.shields.io/badge/%E6%97%A5%E6%9C%AC%E8%AA%9E-ffd700?style=for-the-badge&logo=googletranslate&logoColor=white&labelColor=090b10" alt="日本語" /></a>
+  <a href="./README.de.md"><img src="https://img.shields.io/badge/Deutsch-7928ca?style=for-the-badge&logo=googletranslate&logoColor=white&labelColor=090b10" alt="Deutsch" /></a>
+  <a href="./README.fr.md"><img src="https://img.shields.io/badge/Fran%C3%A7ais-00f0ff?style=for-the-badge&logo=googletranslate&logoColor=white&labelColor=090b10" alt="Français" /></a>
+  <a href="./README.zh.md"><img src="https://img.shields.io/badge/%E4%B8%AD%E6%96%87-ff00aa?style=for-the-badge&logo=googletranslate&logoColor=white&labelColor=090b10" alt="中文" /></a>
+  <a href="./README.ru.md"><img src="https://img.shields.io/badge/%D0%A0%D1%83%D1%81%D1%81%D0%BA%D0%B8%D0%B9-00ff66?style=for-the-badge&logo=googletranslate&logoColor=white&labelColor=090b10" alt="Русский" /></a>
 </p>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Cyber Divider" />
@@ -215,96 +222,19 @@
 
 ---
 
-### 🌐 Multilingual Technical Briefs (Native Translations)
-
-<details>
-<summary><b>🇪🇸 Español (Spanish) — Resumen Técnico Nativo</b></summary>
-<br/>
-
-- **Perfil**: Rodrigo Carrasco (Parallax / `equisde`). Ingeniero de Software Senior, Arquitecto DevSecOps e Investigador de Seguridad Ofensiva con inmersión técnica desde 2004 (11 años de edad). Cobertura 100% remota global.
-- **Especialidad**: Detección y explotación controlada de vulnerabilidades de lógica de negocio (IDOR, Race Conditions, Parameter Tampering) en pasarelas fintech y sistemas de conciliación asíncrona.
-- **Seguridad Móvil y Reversing**: Hooking dinámico con Frida, runtime Dalvik/ART, Il2CppDumper, Magisk cert-fixer, Burp Suite Pro y patches bytecode automatizados para Fiddler Everywhere. Framework propio: *RoRoIntercept*.
-- **Experiencia Corporativa**: Arquitectura integral del núcleo ERP corporativo en **Saargo Spa** (PHP 8.3, SQL Server, Python) y automatización de procesos transaccionales críticos.
-- **Pionero Blockchain**: Arquitecto y creador de **Foxycoin** (consenso P2P, demonios de red y wallets nativas) y protocolos de privacidad CryptoNote.
-- **Aliado Clave**: Hermandad técnica con **IMXNOOBX** (@IMXNOOBX), creador de `cs2-external-esp` (608★), `fstick` para M5StickC (79★), `SAB (SimpleAntiBot)` y bot engines en Node.js.
-- **Sitio Web Interactivo**: Juega el minijuego arcade "Breach Defender" y prueba la terminal CLI con sintetizador Web Audio API y audio briefing por voz en [itsparallax.me](https://itsparallax.me).
-</details>
-
-<details>
-<summary><b>🇧🇷 Português (Portuguese) — Resumo Técnico Nativo</b></summary>
-<br/>
-
-- **Perfil**: Rodrigo Carrasco (Parallax / `equisde`). Engenheiro de Software Sênior, Arquiteto DevSecOps e Pesquisador de Segurança Ofensiva com imersão técnica desde 2004 (11 anos de idade). Atuação 100% global e remota.
-- **Especialidade**: Identificação e exploração controlada de falhas de lógica de negócios (IDOR, Race Conditions, Parameter Tampering) em gateways de pagamento e sistemas de conciliação assíncrona.
-- **Segurança Mobile & Engenharia Reversa**: Hooking dinâmico com Frida, análise de runtime Dalvik/ART, Il2CppDumper, Magisk cert-fixer, Burp Suite Pro e patches de bytecode no Fiddler Everywhere. Ferramenta autoral: *RoRoIntercept*.
-- **Experiência Corporativa**: Arquitetura central de ERP na **Saargo Spa** (PHP 8.3, SQL Server, Python) e automação de fluxos críticos de produção.
-- **Pioneiro em Blockchain**: Criador e arquiteto da **Foxycoin** (consenso P2P, nós de rede e carteiras compiladas) e protocolos descentralizados CryptoNote.
-- **Parceria Estratégica**: Aliança técnica com **IMXNOOBX** (@IMXNOOBX), desenvolvedor de `cs2-external-esp` (608★), `fstick` para M5StickC (79★), `SAB (SimpleAntiBot)` e robôs em Node.js.
-</details>
-
-<details>
-<summary><b>🇯🇵 日本語 (Japanese) — ネイティブ技術要約</b></summary>
-<br/>
-
-- **プロファイル**: ロドリゴ・カラスコ（Parallax / `equisde`）。シニアソフトウェアエンジニア、プリンシパル DevSecOps アーキテクト、オフェンシブ・セキュリティ研究者。2004年（11歳）よりプログラミングおよびシステム開発に没頭。完全リモート対応（グローバル）。
-- **中核領域**: フィンテック決済ゲートウェイおよび非同期データ照合エンジンにおける業務ロジックの脆弱性（IDOR、競合状態、パラメータ改ざん）の特定と検証。
-- **モバイル解析・バイナリリバースエンジニアリング**: Frida を用いた動的フック、Dalvik/ART ランタイム解析、Il2CppDumper、Magisk cert-fixer、Burp Suite Pro、Fiddler 独自パッチ。独自フレームワーク: *RoRoIntercept*。
-- **エンタープライズ実績**: **Saargo Spa** における基幹 ERP アーキテクチャ構築（PHP 8.3、SQL Server、Python）および高可用性自動化デーモンの設計。
-- **ブロックチェーン開拓**: 初期の独自仮想通貨 **Foxycoin** のアーキテクト（P2Pコンセンサス、ノードデーモン、ウォレットコンパイル）および CryptoNote プロトコル実装。
-- **重要アライアンス**: **IMXNOOBX**（@IMXNOOBX）との強固な技術連携。代表作: `cs2-external-esp`（608★）、`fstick`（M5StickC ペンテストツール）、`SAB (SimpleAntiBot)`。
-</details>
-
-<details>
-<summary><b>🇩🇪 Deutsch (German) — Präzise Technische Übersicht</b></summary>
-<br/>
-
-- **Profil**: Rodrigo Carrasco (Parallax / `equisde`). Senior Software Engineer, Principal DevSecOps Architect und Offensive Security Researcher. Programmierung und Systementwicklung seit 2004 (Alter 11). 100% weltweit remote-fähig.
-- **Kernkompetenz**: Erkennung und kontrollierte Ausnutzung von Geschäftslogik-Schwachstellen (IDOR, Race Conditions, Parameter Tampering) in hochvolumigen Fintech-Zahlungsgateways und asynchronen Abgleichsystemen.
-- **Mobile Sicherheit & Reverse Engineering**: Dynamisches Hooking mit Frida, Dalvik/ART-Runtime-Analyse, Il2CppDumper, Magisk cert-fixer, Burp Suite Pro und Bytecode-Patches für Fiddler Everywhere. Eigenes Framework: *RoRoIntercept*.
-- **Unternehmenserfahrung**: Vollständige ERP-Kernarchitektur bei **Saargo Spa** (PHP 8.3, SQL Server, Python) und missionskritische Transaktions-Engines.
-- **Blockchain-Pionier**: Architekt und Entwickler von **Foxycoin** (P2P-Konsens, Netzwerk-Daemons, native Wallets) sowie CryptoNote-Implementierungen.
-- **Allianz**: Enge Zusammenarbeit mit **IMXNOOBX** (@IMXNOOBX), Entwickler von `cs2-external-esp` (608★), `fstick` (M5StickC-Sicherheits-Toolkit), `SAB (SimpleAntiBot)` und Node.js-Bot-Architekturen.
-</details>
-
-<details>
-<summary><b>🇫🇷 Français (French) — Synthèse Technique Professionnelle</b></summary>
-<br/>
-
-- **Profil**: Rodrigo Carrasco (Parallax / `equisde`). Ingénieur logiciel senior, architecte DevSecOps principal et chercheur en sécurité offensive. Immersion dans le code et les systèmes depuis 2004 (à l'âge de 11 ans). Couverture 100% internationale et télétravail.
-- **Spécialité**: Audit et exploitation contrôlée des failles de logique métier (IDOR, conditions de concurrence, falsification de paramètres) sur les passerelles financières et moteurs de réconciliation asynchrones.
-- **Sécurité Mobile & Rétro-ingénierie**: Hooking dynamique via Frida, analyse des environnements Dalvik/ART, Il2CppDumper, Magisk cert-fixer, Burp Suite Pro et patchs de bytecode pour Fiddler Everywhere. Outil dédié: *RoRoIntercept*.
-- **Expérience Entreprise**: Conception intégrale de l'ERP d'entreprise chez **Saargo Spa** (PHP 8.3, SQL Server, Python) et orchestration de processus transactionnels critiques.
-- **Pionnier Blockchain**: Concepteur de **Foxycoin** (consensus P2P, démons réseau et compilation de portefeuilles) et protocoles de confidentialité CryptoNote.
-- **Allié Clé**: Coopération technique avec **IMXNOOBX** (@IMXNOOBX), créateur de `cs2-external-esp` (608★), `fstick` pour M5StickC (79★), `SAB (SimpleAntiBot)` et moteurs de bots Node.js.
-</details>
-
-<details>
-<summary><b>🇨🇳 中文 (Chinese) — 原生技术综述</b></summary>
-<br/>
-
-- **个人档案**: 罗德里戈·卡拉斯科 (Parallax / `equisde`)。资深软件工程师、首席 DevSecOps 架构师、进攻性安全研究员。自 2004 年（11岁）起深入探索计算机系统与底层逆向工程。具备 100% 全球远程协作能力。
-- **核心专业**: 针对高并发金融支付网关与异步对账引擎，深入挖掘与利用业务逻辑漏洞（IDOR 越权、条件竞争、参数篡改、客户端校验绕过）。
-- **移动安全与底层逆向**: Frida 动态 Hook、Dalvik/ART 运行时分析、Il2CppDumper、Magisk 根证书注入 (`cert-fixer`)、Burp Suite Pro 及 Fiddler Everywhere 字节码自动化补丁。自研框架: *RoRoIntercept*。
-- **企业核心系统**: **Saargo Spa** 核心企业 ERP 架构研发（PHP 8.3、SQL Server、Python）及高可用无人值守守护进程。
-- **区块链早期开拓者**: 早期虚拟货币 **Foxycoin** 核心架构师（P2P 共识算法、网络节点守护进程与轻钱包编译），以及 CryptoNote 隐私协议研发。
-- **核心盟友**: 与 **IMXNOOBX** (@IMXNOOBX) 保持紧密技术同盟。其代表作包含：`cs2-external-esp`（608★ 开源外部内存分析引擎）、`fstick`（M5StickC 无线安全套件）、`SAB (SimpleAntiBot)` 防洪插件等。
-</details>
-
-<details>
-<summary><b>🇷🇺 Русский (Russian) — Нативный Технический Обзор</b></summary>
-<br/>
-
-- **Профиль**: Родриго Карраско (Parallax / `equisde`). Ведущий инженер-программист, главный архитектор DevSecOps и исследователь наступательной безопасности. В разработке и реверс-инжиниринге с 2004 года (с 11 лет). 100% готовность к глобальной удаленной работе.
-- **Специализация**: Выявление и контролируемая эксплуатация уязвимостей бизнес-логики (IDOR, состояния гонки, подмена параметров) в высоконагруженных платежных шлюзах и системах асинхронной сверки данных.
-- **Мобильная безопасность и реверс-инжиниринг**: Динамический хукинг с помощью Frida, анализ сред исполнения Dalvik/ART, Il2CppDumper, инъекция доверенных сертификатов через Magisk (`cert-fixer`), Burp Suite Pro и байткод-патчи для Fiddler Everywhere. Собственный фреймворк: *RoRoIntercept*.
-- **Корпоративный опыт**: Проектирование ключевой ERP-архитектуры в **Saargo Spa** (PHP 8.3, SQL Server, Python) и отказоустойчивых транзакционных механизмов.
-- **Пионер блокчейна**: Архитектор и создатель альткоина **Foxycoin** (P2P-консенсус, сетевые демоны и сборка кошельков) и внедрение протоколов CryptoNote.
-- **Ключевой союзник**: Прочное техническое братство с **IMXNOOBX** (@IMXNOOBX), создателем `cs2-external-esp` (608★), `fstick` для M5StickC (79★), `SAB (SimpleAntiBot)` и высокоскоростных ботов на Node.js.
-</details>
-
----
-
 <div align="center">
+
+<p align="center">
+  <b>🌐 Read Full Profile in Other Languages:</b><br/>
+  <a href="./README.md">🇺🇸 English (Active)</a> &middot;
+  <a href="./README.es.md">🇪🇸 Español</a> &middot;
+  <a href="./README.pt.md">🇧🇷 Português</a> &middot;
+  <a href="./README.ja.md">🇯🇵 日本語</a> &middot;
+  <a href="./README.de.md">🇩🇪 Deutsch</a> &middot;
+  <a href="./README.fr.md">🇫🇷 Français</a> &middot;
+  <a href="./README.zh.md">🇨🇳 中文</a> &middot;
+  <a href="./README.ru.md">🇷🇺 Русский</a>
+</p>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Cyber Divider" />
 
