@@ -1,8 +1,8 @@
 <div align="center">
 
-# `equisde` // Parallax
+# `equisde` // Rodrigo Carrasco (Parallax)
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F0FF&center=true&vCenter=true&width=520&lines=Hi%2C+I'm+Parallax;Full-Stack+%26+Reverse+Engineer;Blockchain+%26+Backend+Dev;Always+building+useful+things" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F0FF&center=true&vCenter=true&width=620&lines=Staff+DevSecOps+%26+Offensive+Security+Architect;Senior+Full-Stack+%26+Systems+Engineer;Destructive+QA+%26+Reverse+Engineering;Blockchain+Pioneer+%26+Distributed+Systems;Unbreakable+Backend+Logic+%26+Resilience" alt="Typing SVG" />
 
 <p align="center">
   <a href="https://itsparallax.me"><img src="https://img.shields.io/badge/Web-itsparallax.me-00f0ff?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=090b10" alt="Website" /></a>
@@ -15,22 +15,39 @@
 ---
 
 ```text
-┌─ SYSTEM TELEMETRY ────────────────────────────────────────────────────────┐
-│ 👤 Alias     : Parallax (equisde)                                         │
-│ ⚡ Focus     : Full-Stack · Android Reverse Engineering · Blockchain · AI │
-│ 🛠️ Stack     : Go · Python · TypeScript · PHP 8.3 · C++ · Kotlin · Bash   │
-│ 🌐 Website   : https://itsparallax.me                                     │
-│ 🛰️ Location  : Namek                                                      │
-│ 🎮 Discord   : Parallax#1526                                              │
-└───────────────────────────────────────────────────────────────────────────┘
+┌─ SYSTEM TELEMETRY & ARCHITECT PROFILE ─────────────────────────────────────┐
+│ 👤 Principal   : Rodrigo Carrasco · Parallax (equisde)                      │
+│ 🎯 Role        : Senior Software Engineer · DevSecOps & Security Researcher │
+│ 🎓 Education   : B.S. in Computer Science (Grado Ing. Informática @ UNED)  │
+│ ⚡ Immersion   : Systems & Code since 2004 (age 11) · Reversing since 2006  │
+│ 🛡️ Core Spec   : Offensive Security · Destructive QA · Backend Resilience   │
+│ 🌐 Clearance   : 100% Global // Fully Remote-Ready                          │
+│ 🎮 Comms       : Parallax#1526 (Discord)                                    │
+└────────────────────────────────────────────────────────────────────────────┘
 ```
 
-### 👨‍💻 About Me
+> *"My specialty is not testing if code works under ideal conditions, but subjecting business logic to extreme manipulation scenarios to guarantee truly unbreakable backend architectures."*
 
-- ⚡ **Software & Reverse Engineer** building scalable backends, microservices, and mobile security tools.
-- ⛓️ **Blockchain & Web3** developer since 2015.
-- 📱 Active researcher in **Android security, Magisk modules, and traffic interception**.
-- 🤖 Integrating autonomous AI agent workflows and distributed automation pipelines.
+---
+
+### 🛡️ Engineering Philosophy & Core Domains
+
+- ⚔️ **Offensive Security, Mobile Reversing & Destructive QA**:
+  - Controlled identification and exploitation of complex **Business Logic Flaws**, Parameter Tampering, IDOR, Race Conditions, and Client-Side Security Bypasses across high-throughput financial/payment gateways and asynchronous reconciliation engines.
+  - Native Android binary instrumentation, dynamic hooking with **Frida**, Dalvik/ART runtime analysis, **Il2CppDumper**, and root certificate trust injection via Magisk (`cert-fixer`). Protocol reverse engineering via **Burp Suite Professional**, **Fiddler Everywhere** custom patches, Nuclei, Shodan, ADB, and Scrcpy.
+  - Distributed adversarial testing pipelines: IP rotation clusters via **3proxy**, ephemeral authenticated sessions, race-condition exploitation, and automated payload injection.
+  - Physical and contactless security assessment: HF/LF RFID and NFC protocol auditing (**Mifare Classic**).
+
+- 🏢 **Enterprise Systems, Blockchain & Autonomous Engines**:
+  - **Saargo Spa**: Full-lifecycle software engineering, enterprise ERP architecture (PHP, Microsoft SQL Server, Python), mission-critical transactional engines, and automated workflow orchestrations.
+  - **Blockchain Pioneer**: Early architect and creator of **Foxycoin** prior to the global altcoin boom; end-to-end consensus design, peer-to-peer daemon operations, custom wallet compilation, and network launch.
+  - **Headless Daemons & Real-Time Telemetry**: Fault-tolerant cloud synchronization engines, asynchronous bounce and event-processing systems (Radar), high-availability cron architectures, and real-time microservices across **Go**, **Python (Flask)**, **Node.js (Socket.IO, Baileys/WhatsApp)**, **PHP 8.3**, and **C# (.NET)**.
+  - **Visual 2D/3D Web Computing**: Real-time interactive CAD/e-commerce product calibrators utilizing **Three.js** and **Fabric.js** running on hardened Nginx / PHP-FPM / Linux stacks.
+
+- ☁️ **Cloud, DevSecOps & Low-Level Forensics**:
+  - Resilient infrastructure across **Google Cloud Platform (GCP Spot VMs, custom IP routing)**, Cloudflare WAF/Zero Trust, New Relic full-stack observability, and GPU cloud clusters (Lightning AI, Thunder Compute) accelerated by agentic CLI orchestration.
+  - **Hardware & IoT Nodes**: Autonomous edge sensors with ESP32-U microcontrollers (Bluetooth A2DP streaming, Wi-Fi polling), UAV/drone telemetry flight controllers, and high-speed Klipper / OctoPrint 3D print servers.
+  - **Low-Level Storage Forensics**: Deep logical sector recovery and manual MBR/GPT partition table reconstruction on damaged 1.8 TB+ storage volumes via TestDisk. Mobile publisher under **Tribilin Devs** (Google Play) and cartographic auditing on OpenStreetMap.
 
 ---
 
@@ -40,7 +57,7 @@
 
 | 🧠 Galaxy Brain | 🎯 Quickdraw | 🦈 Pull Shark | 🎲 YOLO | ❄️ Arctic Vault |
 | :---: | :---: | :---: | :---: | :---: |
-| Q&A Solutions | Sub-5m Issue Close | 19+ Merged PRs | Direct Merge | 2020 Archive |
+| Verified Q&A Solutions | Sub-5m Issue Close | 19+ Merged PRs | Direct Branch Merge | 2020 Archive Contributor |
 
 </div>
 
@@ -50,7 +67,7 @@
 
 <div align="center">
 
-#### Languages
+#### Languages & Core Runtimes
 <p align="center">
   <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
@@ -58,17 +75,28 @@
   <img src="https://img.shields.io/badge/PHP_8.3-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" />
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash" />
 </p>
 
-#### Frameworks & Platforms
+#### Security, Reversing & Testing Tools
 <p align="center">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/Frida-2C3E50?style=for-the-badge&logo=frida&logoColor=white" alt="Frida" />
+  <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burp-suite&logoColor=white" alt="Burp Suite" />
+  <img src="https://img.shields.io/badge/Fiddler-00457C?style=for-the-badge&logo=telerik&logoColor=white" alt="Fiddler" />
+  <img src="https://img.shields.io/badge/Android_Reversing-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android" />
+  <img src="https://img.shields.io/badge/Nuclei-1E293B?style=for-the-badge&logo=hackthebox&logoColor=white" alt="Nuclei" />
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark" />
+</p>
+
+#### Cloud, Infrastructure & DevSecOps
+<p align="center">
+  <img src="https://img.shields.io/badge/Linux_Kernel-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="GCP" />
+  <img src="https://img.shields.io/badge/Cloudflare_WAF-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Cloudflare" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white" alt="Three.js" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/SQL_Server-CC292B?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL Server" />
 </p>
 
 </div>
@@ -90,17 +118,18 @@
 
 ---
 
-### 🚀 Featured Repositories
+### 🚀 Selected Engineering & Systems
 
-- 🔍 **[RoRoIntercept](https://github.com/equisde/RoRoIntercept)** — Interceptación y modificación de tráfico HTTP/HTTPS en Android.
-- 📱 **[ControlRemotoTV-Abuelitos](https://github.com/equisde/ControlRemotoTV-Abuelitos)** — Control remoto para Android TV con interfaz de alta accesibilidad para adultos mayores.
-- 🛠️ **[Fiddler Everywhere Tools](https://github.com/equisde/fiddler-everywhere-patch-automated)** — Automatización y tooling de análisis de red.
-- 🤖 **[YuyinODS](https://github.com/equisde/YuyinODS)** — Entorno para servidores de inferencia de IA local y workflows distribuidos.
+- 🔍 **[RoRoIntercept](https://github.com/equisde/RoRoIntercept)** — Android application security framework for dynamic HTTPS traffic interception, transparent MITM proxying, and payload modification.
+- 📱 **[ControlRemotoTV-Abuelitos](https://github.com/equisde/ControlRemotoTV-Abuelitos)** — Accessible consumer engineering: low-latency IP remote controller designed for elderly users with zero-friction discovery.
+- 🛠️ **[Fiddler Everywhere Tools](https://github.com/equisde/fiddler-everywhere-patch-automated)** — Deep bytecode patcher, dynamic instrumentation scripts, and runtime automation suite for enterprise network analysis.
+- 🤖 **[YuyinODS](https://github.com/equisde/YuyinODS)** — Distributed local AI server infrastructure, autonomous agent pipelines, multimodal inference, and asynchronous workflow execution.
+- ⚙️ **Enterprise Core (Saargo Spa)** — Scalable ERP backends, high-throughput transactional databases, and resilient automation daemons operating in production.
 
 ---
 
 <div align="center">
 
-`// Parallax · 2026 · Keep building useful systems`
+`// Parallax (Rodrigo Carrasco) · Global Remote DevSecOps & Systems Architect · Keep building resilient systems`
 
 </div>
