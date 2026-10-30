@@ -7,9 +7,15 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00F0FF&center=true&vCenter=true&width=580&lines=Principal+DevSecOps+%26+Security+Architect;Senior+Full-Stack+%26+Systems+Engineer;Destructive+QA+%26+Reverse+Engineering;Blockchain+Pioneer+%26+Distributed+Systems;Unbreakable+Backend+Logic+%26+Resilience" alt="Typing SVG" />
 
 <p align="center">
-  <a href="https://itsparallax.me"><img src="https://img.shields.io/badge/Web-itsparallax.me-00f0ff?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=090b10" alt="Website" /></a>
+  <a href="https://itsparallax.me"><img src="https://img.shields.io/badge/Live_Web_%26_Arcade-itsparallax.me-00f0ff?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=090b10" alt="Website" /></a>
   <a href="https://kisawea.net"><img src="https://img.shields.io/badge/Network-kisawea.net-ff00aa?style=for-the-badge&logo=cloudflare&logoColor=white&labelColor=090b10" alt="Network" /></a>
   <a href="https://github.com/equisde"><img src="https://img.shields.io/badge/GitHub-equisde-7928ca?style=for-the-badge&logo=github&logoColor=white&labelColor=090b10" alt="GitHub" /></a>
+  <a href="https://itsparallax.me"><img src="https://img.shields.io/badge/Play_MiniGame-Breach_Defender-00ff66?style=for-the-badge&logo=gamepad&logoColor=black&labelColor=090b10" alt="Arcade Game" /></a>
+</p>
+
+<p align="center">
+  <a href="#-english-canonical-brief"><img src="https://img.shields.io/badge/Language-English%20(Default)-00f0ff?style=flat-square&logo=googletranslate&logoColor=white" alt="English" /></a>
+  <a href="#-versión-en-español-resumen-técnico"><img src="https://img.shields.io/badge/Idioma-Español-ff00aa?style=flat-square&logo=googletranslate&logoColor=white" alt="Spanish" /></a>
 </p>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Cyber Divider" />
@@ -23,7 +29,7 @@
 │ 🔬 Discipline  : Computer Science & Distributed Systems Architecture        │
 │ ⚡ Immersion   : Systems & Code since 2004 (age 11) · Reversing since 2006  │
 │ 🛡️ Core Spec   : Offensive Security · Destructive QA · Backend Resilience   │
-│ 🤝 Key Ally    : @IMXNOOBX (Discord Bots, Protections & Security Tools)     │
+│ 🤝 Key Ally    : @IMXNOOBX (cs2-esp, fstick, SAB, Discord bots & tooling)   │
 │ 🌐 Clearance   : 100% Global // Fully Remote-Ready                          │
 │ 🎮 Comms       : Parallax#1526 (Discord)                                    │
 └────────────────────────────────────────────────────────────────────────────┘
@@ -35,54 +41,94 @@
 
 ### 🛡️ Engineering Philosophy & Core Domains
 
-- ⚔️ **Offensive Security, Mobile Reversing & Destructive QA**:
+<details open>
+<summary><b>⚔️ Offensive Security, Mobile Reversing & Destructive QA</b> <i>(Click to collapse/expand)</i></summary>
+<br/>
+
+- **Business Logic Vulnerability Hunting**:
   - Controlled identification and exploitation of complex **Business Logic Flaws**, Parameter Tampering, IDOR, Race Conditions, and Client-Side Security Bypasses across high-throughput financial/payment gateways and asynchronous reconciliation engines.
-  - Native Android binary instrumentation, dynamic hooking with **Frida**, Dalvik/ART runtime analysis, **Il2CppDumper**, and root certificate trust injection via Magisk (`cert-fixer`). Protocol reverse engineering via **Burp Suite Professional**, **Fiddler Everywhere** custom patches, Nuclei, Shodan, ADB, and Scrcpy.
-  - Distributed adversarial testing pipelines: IP rotation clusters via **3proxy**, ephemeral authenticated sessions, race-condition exploitation, and automated payload injection.
-  - Physical and contactless security assessment: HF/LF RFID and NFC protocol auditing (**Mifare Classic**).
+- **Mobile Reversing & Binary Instrumentation**:
+  - Native Android binary instrumentation, dynamic runtime hooking with **Frida**, Dalvik/ART execution analysis, **Il2CppDumper**, and root certificate trust injection via Magisk (`cert-fixer`).
+  - Protocol reverse engineering via **Burp Suite Professional**, **Fiddler Everywhere** custom patches, Nuclei, Shodan, ADB, and Scrcpy.
+- **Adversarial Testing Pipelines**:
+  - Distributed adversarial testing clusters: dynamic IP rotation via **3proxy**, ephemeral authenticated sessions, race-condition exploitation, and automated payload injection.
+- **Physical & Contactless Security**:
+  - HF/LF RFID and NFC protocol auditing (**Mifare Classic**).
+</details>
 
-- 🏢 **Enterprise Systems, Blockchain & Autonomous Engines**:
-  - **Saargo Spa**: Full-lifecycle software engineering, enterprise ERP architecture (PHP, Microsoft SQL Server, Python), mission-critical transactional engines, and automated workflow orchestrations.
-  - **Blockchain Pioneer**: Early architect and creator of **Foxycoin** prior to the global altcoin boom; end-to-end consensus design, peer-to-peer daemon operations, custom wallet compilation, and network launch.
-  - **Headless Daemons & Real-Time Telemetry**: Fault-tolerant cloud synchronization engines, asynchronous bounce and event-processing systems (Radar), high-availability cron architectures, and real-time microservices across **Go**, **Python (Flask)**, **Node.js (Socket.IO, Baileys/WhatsApp)**, **PHP 8.3**, and **C# (.NET)**.
-  - **Visual 2D/3D Web Computing**: Real-time interactive CAD/e-commerce product calibrators utilizing **Three.js** and **Fabric.js** running on hardened Nginx / PHP-FPM / Linux stacks.
+<br/>
 
-- ☁️ **Cloud, DevSecOps & Low-Level Forensics**:
+<details open>
+<summary><b>🏢 Enterprise Core Systems, Blockchain & Autonomous Engines</b> <i>(Click to collapse/expand)</i></summary>
+<br/>
+
+- **Saargo Spa (Corporate Experience)**:
+  - Full-lifecycle software engineering, enterprise ERP core architecture (PHP 8.3, Microsoft SQL Server, Python), mission-critical transactional engines, and automated workflow orchestrations.
+- **Blockchain Pioneer**:
+  - Early architect and creator of **Foxycoin** prior to the global altcoin boom; end-to-end consensus design, peer-to-peer daemon operations, custom wallet compilation, and network launch.
+  - Implementation and security auditing of decentralized privacy protocols (CryptoNote).
+- **Headless Daemons & Real-Time Telemetry**:
+  - Fault-tolerant cloud synchronization engines, asynchronous bounce and event-processing systems (Radar), high-availability cron architectures, and real-time microservices across **Go**, **Python (Flask/FastAPI)**, **Node.js (Socket.IO, Baileys/WhatsApp)**, **PHP 8.3**, and **C# (.NET)**.
+- **Visual 2D/3D Web Computing**:
+  - Real-time interactive CAD/e-commerce product calibrators utilizing **Three.js** (canonical v52 hoodie model with anatomical decals) and **Fabric.js** running on hardened Nginx / PHP-FPM / Linux stacks.
+</details>
+
+<br/>
+
+<details open>
+<summary><b>☁️ Cloud, DevSecOps, Low-Level Forensics & Edge IoT</b> <i>(Click to collapse/expand)</i></summary>
+<br/>
+
+- **Cloud & DevSecOps Infrastructure**:
   - Resilient infrastructure across **Google Cloud Platform (GCP Spot VMs, custom IP routing)**, Cloudflare WAF/Zero Trust, New Relic full-stack observability, and GPU cloud clusters (Lightning AI, Thunder Compute) accelerated by agentic CLI orchestration.
-  - **Hardware & IoT Nodes**: Autonomous edge sensors with ESP32-U microcontrollers (Bluetooth A2DP streaming, Wi-Fi polling), UAV/drone telemetry flight controllers, and high-speed Klipper / OctoPrint 3D print servers.
-  - **Low-Level Storage Forensics**: Deep logical sector recovery and manual MBR/GPT partition table reconstruction on damaged 1.8 TB+ storage volumes via TestDisk. Mobile publisher under **Tribilin Devs** (Google Play) and cartographic auditing on OpenStreetMap.
+- **Hardware & IoT Nodes**:
+  - Autonomous edge sensors with ESP32-U microcontrollers (Bluetooth A2DP streaming, Wi-Fi polling), UAV/drone telemetry flight controllers, and high-speed Klipper / OctoPrint 3D print servers.
+- **Low-Level Storage Forensics**:
+  - Deep logical sector recovery and manual MBR/GPT partition table reconstruction on damaged 1.8 TB+ storage volumes via TestDisk. Mobile publisher under **Tribilin Devs** (Google Play) and cartographic auditing on OpenStreetMap.
+</details>
 
 ---
 
-### 🤝 Important People & Key Allies
+### 🤝 Elite VIP Partner & Brother-in-Arms: [IMXNOOBX](https://github.com/IMXNOOBX)
 
 <div align="center">
 
-<table>
+<table style="border: 2px solid #00f0ff; border-radius: 14px; background: #090b10;">
 <tr>
-<td width="130" align="center" valign="middle">
+<td width="140" align="center" valign="middle">
   <a href="https://github.com/IMXNOOBX">
-    <img src="https://github.com/IMXNOOBX.png?size=240" width="115" height="115" style="border-radius: 50%;" alt="IMXNOOBX Avatar" />
+    <img src="https://github.com/IMXNOOBX.png?size=240" width="120" height="120" style="border-radius: 50%; border: 3px solid #00f0ff; box-shadow: 0 0 20px #00f0ff;" alt="IMXNOOBX Avatar" />
   </a>
   <br/><br/>
-  <a href="https://github.com/IMXNOOBX"><b>@IMXNOOBX</b></a>
+  <a href="https://github.com/IMXNOOBX"><b><font color="#00f0ff" size="4">@IMXNOOBX</font></b></a>
+  <br/>
+  <sub><a href="https://noob.pm"><b><font color="#ff00aa">🌐 noob.pm</font></b></a></sub>
 </td>
 <td valign="middle" align="left">
-  <h3>⚡ <a href="https://github.com/IMXNOOBX">IMXNOOBX</a> — Core Ally, Partner &amp; Security Specialist</h3>
+  <h3>⚡ <a href="https://github.com/IMXNOOBX"><font color="#00f0ff">IMXNOOBX</font></a> — Core Ally, Defense Engineer &amp; Reversing Specialist</h3>
   <p>
     <a href="https://github.com/IMXNOOBX"><img src="https://img.shields.io/badge/GitHub-IMXNOOBX-00f0ff?style=for-the-badge&logo=github&logoColor=white&labelColor=090b10" alt="IMXNOOBX GitHub" /></a>
-    <img src="https://img.shields.io/badge/Status-VERIFIED_ALLY-ff00aa?style=for-the-badge&labelColor=090b10" alt="Verified Ally" />
-    <img src="https://img.shields.io/badge/Specialty-Discord_Bots_%7C_Protections-7928ca?style=for-the-badge&logo=discord&logoColor=white&labelColor=090b10" alt="Discord Bot Specialist" />
+    <img src="https://img.shields.io/badge/Status-VERIFIED_VIP_ALLY-ff00aa?style=for-the-badge&labelColor=090b10" alt="Verified Ally" />
+    <img src="https://img.shields.io/badge/Spec-Memory_Reversing_%7C_Protections-7928ca?style=for-the-badge&logo=cplusplus&logoColor=white&labelColor=090b10" alt="Specialist" />
   </p>
   <p>
-    <b>Brother-in-arms and irreplaceable technical partner</b> across reverse engineering, network security, and infrastructure tooling.
+    <b>Brother-in-arms and irreplaceable technical collaborator</b> across memory reverse engineering, game security research, hardware hacking, and defense tooling.
   </p>
   <p>
-    🤖 <b>Interested in a Discord Bot or High-Protection Defense Systems? <a href="https://github.com/IMXNOOBX">Hire Him</a>:</b><br/>
-    Specialist in NodeJS bot architecture, custom anti-raid mechanisms, runtime protections, and ultra-fast deployment.
+    <b>⭐ Flagship Weaponry &amp; Engineering by IMXNOOBX:</b>
+    <ul>
+      <li>🎮 <b><a href="https://github.com/IMXNOOBX/cs2-external-esp">cs2-external-esp</a></b> (608★): High-performance C++ external ESP &amp; memory framework.</li>
+      <li>📟 <b><a href="https://github.com/IMXNOOBX/fstick">fstick</a></b> (79★): Penetration and wireless security toolkit for M5StickC Plus (ESP32-PICO).</li>
+      <li>🛡️ <b><a href="https://github.com/IMXNOOBX/SAB">SAB (SimpleAntiBot)</a></b>: Kotlin anti-bot spam/flood defense plugin.</li>
+      <li>🧩 <b><a href="https://github.com/IMXNOOBX/vencord-signature">Vencord Plugins</a></b> &amp; <b><a href="https://github.com/IMXNOOBX/autoVoiceProtect">autoVoiceProtect</a></b>: Discord client modding &amp; active defense.</li>
+      <li>🤖 <b>Discord &amp; Steam Bot Architecture</b>: High-speed Node.js bot engineering, anti-raid defenses, and custom protections. <i>Interested in a bot? <a href="https://github.com/IMXNOOBX"><font color="#00f0ff">Hire Him</font></a>!</i></li>
+    </ul>
   </p>
+  <blockquote>
+    <i>"This is my first project in python... Tnx to @equisde (Parallax) for helping me in my noobie mistakes :D"</i> — <b>IMXNOOBX (<a href="https://github.com/IMXNOOBX/readme-generator">readme-generator</a>)</b>
+  </blockquote>
   <p>
-    👉 <a href="https://github.com/IMXNOOBX"><b>↗ Establish Uplink with @IMXNOOBX on GitHub</b></a>
+    👉 <a href="https://github.com/IMXNOOBX"><b><font color="#00f0ff">↗ Establish Uplink with @IMXNOOBX on GitHub</font></b></a> &nbsp;|&nbsp; 🌐 <a href="https://noob.pm"><b><font color="#ff00aa">Personal Node: noob.pm ↗</font></b></a>
   </p>
 </td>
 </tr>
@@ -96,7 +142,7 @@
 
 <div align="center">
 
-| 🧠 Galaxy Brain | 🎯 Quickdraw | 🦈 Pull Shark | 🎲 YOLO | ❄️ Arctic Vault |
+| 🧠 Galaxy Brain | 🎯 Quickdraw | 🦈 Pull Shark (2x) | 🎲 YOLO | ❄️ Arctic Vault |
 | :---: | :---: | :---: | :---: | :---: |
 | Verified Q&A Solutions | Sub-5m Issue Close | 19+ Merged PRs | Direct Branch Merge | 2020 Archive Contributor |
 
@@ -144,7 +190,7 @@
 
 ---
 
-### 📊 GitHub Activity & Telemetry
+### 📊 GitHub Activity & Telemetry (100% Uptime Static Engine)
 
 <div align="center">
 
@@ -166,6 +212,24 @@
 - 🛠️ **[Fiddler Everywhere Tools](https://github.com/equisde/fiddler-everywhere-patch-automated)** — Deep bytecode patcher, dynamic instrumentation scripts, and runtime automation suite for enterprise network analysis.
 - 🤖 **[YuyinODS](https://github.com/equisde/YuyinODS)** — Distributed local AI server infrastructure, autonomous agent pipelines, multimodal inference, and asynchronous workflow execution.
 - ⚙️ **Enterprise Core (Saargo Spa)** — Scalable ERP backends, high-throughput transactional databases, and resilient automation daemons operating in production.
+
+---
+
+### 🇪🇸 Versión en Español (Resumen Técnico Opcional)
+
+<details>
+<summary><b>Haz clic aquí para ver el resumen en Español</b></summary>
+<br/>
+
+- **Perfil**: Rodrigo Carrasco (Parallax / `equisde`). Ingeniero de Software Senior, Arquitecto DevSecOps e Investigador de Seguridad Ofensiva con inmersión técnica desde 2004 (11 años de edad). Cobertura 100% remota global.
+- **Especialidad**: Detección y explotación controlada de vulnerabilidades de lógica de negocio (IDOR, Race Conditions, Parameter Tampering) en pasarelas fintech y sistemas transaccionales.
+- **Seguridad Móvil y Reversing**: Hooking dinámico con Frida, Dalvik/ART, Il2CppDumper, Magisk cert-fixer, Burp Suite Pro y patches para Fiddler Everywhere.
+- **Experiencia Corporativa**: Arquitectura del núcleo ERP en **Saargo Spa** (PHP 8.3, SQL Server, Python).
+- **Pionero Blockchain**: Arquitecto y creador de **Foxycoin** (consenso P2P, demonios y wallets) y protocolos de privacidad CryptoNote.
+- **Aliado Clave**: Hermandad técnica con **IMXNOOBX** (@IMXNOOBX), creador de `cs2-external-esp` (608★), `fstick` para M5StickC (79★), `SAB (SimpleAntiBot)` y bot engines en Node.js.
+- **Sitio Web Interactivo**: Juega el minijuego arcade "Breach Defender" y prueba la terminal CLI con sintetizador Web Audio API en [itsparallax.me](https://itsparallax.me).
+
+</details>
 
 ---
 
