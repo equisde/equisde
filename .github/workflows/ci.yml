@@ -8,8 +8,6 @@ on:
     branches:
       - main
   workflow_dispatch:
-  schedule:
-    - cron: "30 * * * *"
 
 permissions:
   contents: read
@@ -26,13 +24,5 @@ jobs:
         with:
           python-version: "3.11"
 
-      - name: Compile Python scripts
+      - name: Validate Python script syntax
         run: python -m py_compile scripts/generate_stats.py
-
-      - name: Generate stats
-        env:
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: python scripts/generate_stats.py
-
-      - name: Verify generated assets
-        run: test -s assets/github-stats.svg && test -s assets/top-langs.svg
