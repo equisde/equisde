@@ -7,11 +7,15 @@ Eliminates all third-party Vercel rate-limit and 'Maximum retries exceeded' erro
 
 import json
 import os
+from pathlib import Path
 import subprocess
 import sys
 
 def run_cmd(cmd):
     result = subprocess.run(cmd, shell=True, capture_output=True, text=True)
+    if result.returncode != 0:
+        print(result.stderr.strip() or f"Command failed: {cmd}", file=sys.stderr)
+        return ""
     return result.stdout.strip()
 
 def fetch_github_data():
@@ -244,9 +248,10 @@ def main():
     metrics = compute_metrics(data)
     print("Metrics:", metrics)
     
-    os.makedirs("/home/parallax/scratch_repos/equisde/assets", exist_ok=True)
-    generate_stats_svg(metrics, "/home/parallax/scratch_repos/equisde/assets/github-stats.svg")
-    generate_top_langs_svg(metrics, "/home/parallax/scratch_repos/equisde/assets/top-langs.svg")
+    assets_dir = Path(__file__).resolve().parent.parent / "assets"
+    assets_dir.mkdir(parents=True, exist_ok=True)
+    generate_stats_svg(metrics, assets_dir / "github-stats.svg")
+    generate_top_langs_svg(metrics, assets_dir / "top-langs.svg")
     print("Successfully generated assets/github-stats.svg and assets/top-langs.svg!")
 
 if __name__ == "__main__":

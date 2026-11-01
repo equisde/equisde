@@ -3,22 +3,35 @@ name: ci
 on:
   push:
     branches:
-      - master
+      - main
+  pull_request:
+    branches:
+      - main
   schedule:
     - cron: "30 * * * *"
 
+permissions:
+  contents: read
+
 jobs:
-  autogreen:
+  validate:
     runs-on: ubuntu-latest
     steps:
-      - name: Clone repository
-        uses: actions/checkout@v2
+      - name: Checkout repository
+        uses: actions/checkout@v4
 
-      - name: equisde
-        run: |
-          git config --local user.email "kalom4327@gmail.com"
-          git config --local user.name "equisde"
-          git remote set-url origin https://${{ github.actor }}:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}
-          git pull --rebase
-          git commit --allow-empty -m "new update"
-          git push
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Compile Python scripts
+        run: python -m py_compile scripts/generate_stats.py
+
+      - name: Generate stats
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python scripts/generate_stats.py
+
+      - name: Verify generated assets
+        run: test -s assets/github-stats.svg && test -s assets/top-langs.svg

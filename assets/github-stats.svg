@@ -31,7 +31,7 @@
     <g transform="translate(0, 26)">
       <text class="icon" font-size="14">⚡</text>
       <text x="22" y="0" class="stat-label">Total Commits (Tracked):</text>
-      <text x="210" y="0" class="stat-val">278+</text>
+      <text x="210" y="0" class="stat-val">306+</text>
     </g>
 
     <!-- PRs Merged -->
@@ -52,7 +52,7 @@
     <g transform="translate(0, 104)">
       <text class="icon" font-size="14">📦</text>
       <text x="22" y="0" class="stat-label">Owned Repositories:</text>
-      <text x="210" y="0" class="stat-val">151</text>
+      <text x="210" y="0" class="stat-val">154</text>
     </g>
   </g>
 
