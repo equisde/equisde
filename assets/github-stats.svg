@@ -24,21 +24,21 @@
     <g transform="translate(0, 0)">
       <text class="icon" font-size="14">★</text>
       <text x="22" y="0" class="stat-label">Total Stars Earned:</text>
-      <text x="210" y="0" class="stat-val">108</text>
+      <text x="210" y="0" class="stat-val">103</text>
     </g>
 
     <!-- Commits -->
     <g transform="translate(0, 26)">
       <text class="icon" font-size="14">⚡</text>
       <text x="22" y="0" class="stat-label">Total Commits (Tracked):</text>
-      <text x="210" y="0" class="stat-val">306+</text>
+      <text x="210" y="0" class="stat-val">307+</text>
     </g>
 
     <!-- PRs Merged -->
     <g transform="translate(0, 52)">
       <text class="icon" font-size="14">🦈</text>
       <text x="22" y="0" class="stat-label">Total PRs Merged:</text>
-      <text x="210" y="0" class="stat-val">19 (Pull Shark 2x)</text>
+      <text x="210" y="0" class="stat-val">10 (Pull Shark 2x)</text>
     </g>
 
     <!-- Issues Closed -->
@@ -52,7 +52,7 @@
     <g transform="translate(0, 104)">
       <text class="icon" font-size="14">📦</text>
       <text x="22" y="0" class="stat-label">Owned Repositories:</text>
-      <text x="210" y="0" class="stat-val">154</text>
+      <text x="210" y="0" class="stat-val">122</text>
     </g>
   </g>
 

@@ -18,23 +18,23 @@
     <g transform="translate(25, 52)">
       <circle cx="5" cy="-4" r="5" fill="#f34b7d" />
       <text x="18" y="0" class="lang-name">C++</text>
-      <text x="145" y="0" class="lang-pct">67.6%</text>
+      <text x="145" y="0" class="lang-pct">69.3%</text>
       <rect x="200" y="-10" width="180" height="8" rx="4" fill="#1c2438" />
-      <rect x="200" y="-10" width="121" height="8" rx="4" fill="#f34b7d" />
+      <rect x="200" y="-10" width="124" height="8" rx="4" fill="#f34b7d" />
     </g>
 
     <g transform="translate(25, 76)">
       <circle cx="5" cy="-4" r="5" fill="#555555" />
       <text x="18" y="0" class="lang-name">C</text>
-      <text x="145" y="0" class="lang-pct">21.7%</text>
+      <text x="145" y="0" class="lang-pct">18.4%</text>
       <rect x="200" y="-10" width="180" height="8" rx="4" fill="#1c2438" />
-      <rect x="200" y="-10" width="39" height="8" rx="4" fill="#555555" />
+      <rect x="200" y="-10" width="33" height="8" rx="4" fill="#555555" />
     </g>
 
     <g transform="translate(25, 100)">
       <circle cx="5" cy="-4" r="5" fill="#438eff" />
       <text x="18" y="0" class="lang-name">Objective-C</text>
-      <text x="145" y="0" class="lang-pct">3.2%</text>
+      <text x="145" y="0" class="lang-pct">3.3%</text>
       <rect x="200" y="-10" width="180" height="8" rx="4" fill="#1c2438" />
       <rect x="200" y="-10" width="6" height="8" rx="4" fill="#438eff" />
     </g>
@@ -42,7 +42,7 @@
     <g transform="translate(25, 124)">
       <circle cx="5" cy="-4" r="5" fill="#ef7a08" />
       <text x="18" y="0" class="lang-name">OCaml</text>
-      <text x="145" y="0" class="lang-pct">2.3%</text>
+      <text x="145" y="0" class="lang-pct">2.4%</text>
       <rect x="200" y="-10" width="180" height="8" rx="4" fill="#1c2438" />
       <rect x="200" y="-10" width="6" height="8" rx="4" fill="#ef7a08" />
     </g>
@@ -50,7 +50,7 @@
     <g transform="translate(25, 148)">
       <circle cx="5" cy="-4" r="5" fill="#3572A5" />
       <text x="18" y="0" class="lang-name">Python</text>
-      <text x="145" y="0" class="lang-pct">1.4%</text>
+      <text x="145" y="0" class="lang-pct">2.1%</text>
       <rect x="200" y="-10" width="180" height="8" rx="4" fill="#1c2438" />
       <rect x="200" y="-10" width="6" height="8" rx="4" fill="#3572A5" />
     </g>
@@ -58,7 +58,7 @@
     <g transform="translate(25, 172)">
       <circle cx="5" cy="-4" r="5" fill="#f1e05a" />
       <text x="18" y="0" class="lang-name">JavaScript</text>
-      <text x="145" y="0" class="lang-pct">0.9%</text>
+      <text x="145" y="0" class="lang-pct">1.2%</text>
       <rect x="200" y="-10" width="180" height="8" rx="4" fill="#1c2438" />
       <rect x="200" y="-10" width="6" height="8" rx="4" fill="#f1e05a" />
     </g>
