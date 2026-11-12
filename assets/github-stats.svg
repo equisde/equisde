@@ -31,7 +31,7 @@
     <g transform="translate(0, 26)">
       <text class="icon" font-size="14">⚡</text>
       <text x="22" y="0" class="stat-label">Total Commits (Tracked):</text>
-      <text x="210" y="0" class="stat-val">350+</text>
+      <text x="210" y="0" class="stat-val">738+</text>
     </g>
 
     <!-- PRs Merged -->
